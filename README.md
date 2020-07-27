@@ -55,3 +55,8 @@ Time taken to draw a picture is very high
 ## Future Improvements:
 We can use more servo motors to draw a given picture so that the time taken will be less.
 We can also increase the roatation of servo motor and decrease the delay to speeden the drawing.
+
+## Team members:
+                        
+
+ [Ravina Bishnoi](https://github.com/ravinab29)
