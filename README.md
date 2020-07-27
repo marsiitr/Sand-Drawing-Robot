@@ -30,17 +30,17 @@ Actually stepper motor moves along the shaft, shaft is still
 
 ## Electronic aspects of the design:
 
-### Micro controller:
+### Micro controller :
 Arduino mega is used.It is one of the most important compnents used to make sand drawing robot.Arduino code in this micro controller helps the servo motor rotate according to the pixels of the pixelated image.It also helps the stepper motor to move the shaft vertically and to slide the servo motor horizontally on the shaft. Basically this gives main connection to the pixelated image and the mechanical motors. The power supply for this board is given by 12v battery or an adapter.
 
-###Actuators:
+### Actuators :
 
 1 stepper motor moves on the shaft horizontally.
 Another stepper motor is is used to move the servo motor horizontally on the shaft'
 1 servo motor is used to turn the stick up and down to draw lines on the sand.
 1 L2983D motor driver is also used.
 
-###Power:
+### Power :
 12v battery or an adapter is used to power the arduino, the main component of the project.
 
 ## Cost structure:
