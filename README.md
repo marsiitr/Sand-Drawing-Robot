@@ -46,7 +46,7 @@ Another stepper motor is is used to move the servo motor horizontally on the sha
 
 ## Cost structure:
 ### Components | Cost(INR)  
----------------| ---------  
+    -----------| ---------  
 2 Timing belt and pulleys | 910   
 4 Linear bearings | 948     
 Wooden cardboard | 200     
