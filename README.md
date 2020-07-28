@@ -7,14 +7,14 @@ The aim of this project is to draw a clear and neat structure of any image in sa
 ## Motivation:
 Even in this fast and busy world  we see huge crowd in beaches.And most of the people often write their names in the sand on the sea shore with a stick or so.We also see most of the social account profiles with a photo of them which is drawn on a paper or sand or something else.This shows that people are more interested in these drawings on paper or sand than the original photo of theirs.We also see many abstract painters and also their customers who are interested to get their painted photo.But they draw on a paper which is quite comfortable.We rarely see those who paints on sand which is a bit difficult compared to that of paper.So,we planned  to prepare a machine (a bot) which can draw a given image on sand and also which can be carried easily.It can be kept in a suitcase and we can take it wherever we want.
 ## Components:
-* 2 stepper motors
-* 1 servo motor
-* 1 Arduino mega
-* Jumper wires 
-* 4 linear motion bearings
-* 1 6mm timing belt
-* 2 20teeth pulley 5mm bore
-* 2mm and 3mm nuts and bolts
+1. 2 stepper motors
+2. 1 servo motor
+3. 1 Arduino mega
+4. Jumper wires 
+5. 4 linear motion bearings
+6. 1 6mm timing belt
+7. 2 20teeth pulley 5mm bore
+8. 2mm and 3mm nuts and bolts
 
 ## Workflow:
 User gives an image, python code converts image to pixelated image such that only two pixel values will be stored for the image ,one stepper motor moves the shaft vertically with the given time gap and another stepper motor makes  the servo motor slide on the shaft, servo motor turns the stick up and down according to the given pixels of the image, with the lines drawn by the stick required image is drawn.
