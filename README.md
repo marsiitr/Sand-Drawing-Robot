@@ -2,7 +2,8 @@
 **Srishti 2020**
 ## Abstract 
 The aim of this project is to draw a clear and neat structure of any image in sand given with maximum accuracy level.
-
+ 
+ ![image]()
 ## Motivation:
 Even in this fast and busy world  we see huge crowd in beaches.And most of the people often write their names in the sand on the sea shore with a stick or so.We also see most of the social account profiles with a photo of them which is drawn on a paper or sand or something else.This shows that people are more interested in these drawings on paper or sand than the original photo of theirs.We also see many abstract painters and also their customers who are interested to get their painted photo.But they draw on a paper which is quite comfortable.We rarely see those who paints on sand which is a bit difficult compared to that of paper.So,we planned  to prepare a machine (a bot) which can draw a given image on sand and also which can be carried easily.It can be kept in a suitcase and we can take it wherever we want.
 ## Components:
@@ -44,6 +45,7 @@ Another stepper motor is is used to move the servo motor horizontally on the sha
 12v battery or an adapter is used to power the arduino, the main component of the project.
 
 ## Cost structure:
+
  
 
 ## Applications:
@@ -59,4 +61,9 @@ We can also increase the roatation of servo motor and decrease the delay to spee
 ## Team members:
                         
 
+ 
+ [Sejal Agarwal](https://github.com/sejal-ag)
+ Kavya Reddy
+ Vishal Gusaiwal
+ Zoaya Zahoor
  [Ravina Bishnoi](https://github.com/ravinab29)
