@@ -45,14 +45,15 @@ Another stepper motor is is used to move the servo motor horizontally on the sha
 12v battery or an adapter is used to power the arduino, the main component of the project.
 
 ## Cost structure:
-####|Components| |Cost(INR)|
-|2 Timing belt and pulleys| |910|
-|4 Linear bearings| |948|
-|Wooden cardboard| |200|
-|8mm brass rods | |640|
-|Nuts, bolts,jumper wires and other material| |250| 
-|Miscellaneous| |200|
-|Total| |3148| 
+| Components                | | Cost(INR)|  
+| ---------------           | |----------|   
+| 2 Timing belt and pulleys | | 910 |  
+| 4 Linear bearings         | | 948 |   
+| Wooden cardboard          | | 200 |   
+| 8mm brass rods            | | 640 |   
+| Nuts, bolts,jumper wires  | | 250 |   
+| Miscellaneous             | | 200 |   
+| Total                     | | 3148|     
 ## Applications:
 **Beaches** - on sand we can draw one’s picture.
 
@@ -67,13 +68,13 @@ We can also increase the roatation of servo motor and decrease the delay to spee
                         
 
  
- [Sejal Agarwal](https://github.com/sejal-ag)
- Kavya Reddy
- Vishal Gusaiwal
- Zoaya Zahoor
- [Ravina Bishnoi](https://github.com/ravinab29)
+ [Sejal Agarwal](https://github.com/sejal-ag)    
+ Kavya Reddy   
+ Vishal Gusaiwal  
+ Zoaya Zahoor   
+ [Ravina Bishnoi](https://github.com/ravinab29)  
 
 ## Mentors:
 
-Shubham goyal
+Shubham goyal     
 Naveen chandra rai
