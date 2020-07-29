@@ -82,13 +82,14 @@ We can also increase the roatation of servo motor and decrease the delay to spee
                         
 
  
- 1. [Sejal Agarwal](https://github.com/sejal-ag)    
- 2. Kavya Reddy   
- 3. Vishal Gusaiwal  
- 4. Zoaya Zahoor   
- 5. [Ravina Bishnoi](https://github.com/ravinab29)  
+ 1. Kavya Reddy   
+ 2. [Ravina Bishnoi](https://github.com/ravinab29) 
+ 3. [Sejal Agarwal](https://github.com/sejal-ag) 
+ 4. Vishal Gusaiwal  
+ 5. Zoaya Zahoor   
+   
 
 ## Mentors:
 
-1. [Shubham goyal](https://github.com/shubham491981)    
-2. Naveen chandra rai
+1. Naveen chandra rai
+2. [Shubham goyal](https://github.com/shubham491981)    
