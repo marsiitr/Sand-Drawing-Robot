@@ -5,7 +5,7 @@
 The aim of this project is to draw a clear and neat structure of any image in sand given with maximum accuracy level.
 
 
- ![image](https://github.com/ravinab29/Sand-Drawing-Robot/blob/aed6bb732d5076857c4cd8e21802854667933b71/images/sdr.jpg)
+ ![image](https://github.com/ravinab29/Sand-Drawing-Robot/blob/aed6bb732d5076857c4cd8e21802854667933b71/Images/sdr.jpg)
 
 
 ## Motivation:
@@ -23,9 +23,8 @@ Even in this fast and busy world  we see huge crowd in beaches.And most of the p
 8. 2mm and 3mm nuts and bolts
 
 ## Workflow:
-<p align="justify">
-User gives an image, python code converts image to pixelated image such that only two pixel values will be stored for the image ,one stepper motor moves the shaft vertically with the given time gap and another stepper motor makes  the servo motor slide on the shaft, servo motor turns the stick up and down according to the given pixels of the image, with the lines drawn by the stick required image is drawn.
-</p>
+
+![worflow](https://github.com/ravinab29/Sand-Drawing-Robot/blob/aed6bb732d5076857c4cd8e21802854667933b71/Images/WORKFLOW.png)
 
 ## Mechanical Aspects:
 * The bot itself doesn’t move but the shaft of the bot moves vertically.
@@ -82,13 +81,13 @@ We can also increase the roatation of servo motor and decrease the delay to spee
                         
 
  
- [Sejal Agarwal](https://github.com/sejal-ag)    
- Kavya Reddy   
- Vishal Gusaiwal  
- Zoaya Zahoor   
- [Ravina Bishnoi](https://github.com/ravinab29)  
+ 1. [Sejal Agarwal](https://github.com/sejal-ag)    
+ 2. Kavya Reddy   
+ 3. Vishal Gusaiwal  
+ 4. Zoaya Zahoor   
+ 5. [Ravina Bishnoi](https://github.com/ravinab29)  
 
 ## Mentors:
 
-[Shubham goyal](https://github.com/shubham491981)    
-Naveen chandra rai
+1. [Shubham goyal](https://github.com/shubham491981)    
+2. Naveen chandra rai
