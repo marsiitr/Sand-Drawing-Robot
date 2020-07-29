@@ -65,9 +65,11 @@ Miscellaneous | 200
 Total | 3148       
 ## Applications:
 <p align="justify">
-**Beaches** - on sand we can draw one’s picture.
 
-**In any malls or tourism places** - we can draw pictures on sand instead of paper
+Beaches - on sand we can draw one’s picture.
+
+In any malls or tourism places- we can draw pictures on sand instead of paper
+
 </p>
 
 ## Limitations:
