@@ -1,9 +1,10 @@
 # Sand-Drawing-Robot
 **Srishti 2020**
 ## Abstract
-<p align="justify">
+
 The aim of this project is to draw a clear and neat structure of any image in sand given with maximum accuracy level.
- </p>
+
+
  ![image](https://github.com/ravinab29/Sand-Drawing-Robot/blob/aed6bb732d5076857c4cd8e21802854667933b71/images/sdr.jpg)
 
 
