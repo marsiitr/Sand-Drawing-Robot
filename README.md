@@ -5,8 +5,7 @@
 The aim of this project is to draw a clear and neat structure of any image in sand given with maximum accuracy level.
 
 
- ![image](https://github.com/ravinab29/Sand-Drawing-Robot/blob/aed6bb732d5076857c4cd8e21802854667933b71/Images/sdr.jpg)
-
+ ![image](/Images/sdr.jpg)
 
 ## Motivation:
 <p align="justify">
@@ -24,7 +23,7 @@ Even in this fast and busy world  we see huge crowd in beaches.And most of the p
 
 ## Workflow:
 
-![worflow](https://github.com/ravinab29/Sand-Drawing-Robot/blob/aed6bb732d5076857c4cd8e21802854667933b71/Images/WORKFLOW.png)
+![worflow](/Images/WORKFLOW.png)
 
 ## Mechanical Aspects:
 * The bot itself doesn’t move but the shaft of the bot moves vertically.
